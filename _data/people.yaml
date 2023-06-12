@@ -25,3 +25,15 @@
     - Random Forest
   applications:
     - Quality control of smartphone pressure observations
+    - name: Ruth Mottram
+  email: rum@dmi.dk
+  social:
+    website: https://sternaparadisaea.net/
+    github: ruth-mottram
+    twitter: ruth_mottram
+    mastodon: fediscience.org/@ruth_mottram
+  techniques:
+    - Emulation
+    - physics informed neural networks
+  applications:
+    - Emulation of regional cimate and surface mass balance models over Greenland and Antarctica
